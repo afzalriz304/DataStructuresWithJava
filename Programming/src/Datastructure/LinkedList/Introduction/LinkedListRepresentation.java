@@ -1,4 +1,4 @@
-package Datastructure.LinkedList;
+package Datastructure.LinkedList.Introduction;
 
 public class LinkedListRepresentation {
     /*head of the linked list*/

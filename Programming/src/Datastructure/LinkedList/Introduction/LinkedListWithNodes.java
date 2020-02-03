@@ -1,12 +1,9 @@
-package Datastructure.LinkedList;
+package Datastructure.LinkedList.Introduction;
+
+import Datastructure.LinkedList.Utils.Node;
 
 public class LinkedListWithNodes {
-    Node headNode;
-
-    static class Node{
-        int data;
-        Node next;
-    }
+    public Node headNode;
 
     public static void main(String[] args) {
 
